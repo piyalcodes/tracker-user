@@ -9,7 +9,7 @@ var _TRACKER_KEYS_ = {
   REQUEST_OPEN: "REQUEST_OPEN",
 };
 
-var _TRACKER_SERVER_ = "http://52.64.142.54:8080";
+var _TRACKER_SERVER_ = "http://54.206.164.211:8080";
 
 window.onerror = function(msg, url, line, col, error) {
    console.log("onerror triggered", msg, url, line, col, error);
